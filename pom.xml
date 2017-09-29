@@ -157,19 +157,12 @@
         <version>2.2</version> 
         <configuration> 
         <server>tomcat-development-server</server> 
-<<<<<<< HEAD
+
         <url>http://144.38.201.212:8080/manager/text</url> 
         <warFile>target\spring-petclinic-1.5.1.war</warFile> 
         <path>/petclinic</path> 
 	<username>admin</username>
         <password>1234</password>
-=======
-        <url>http://144.38.196.18:8080/manager/text</url> 
-        <warFile>target\spring-petclinic-1.5.1.war</warFile> 
-        <path>/petclinic</path> 
-	<username>joe</username>
-        <password>1francom$</password>
->>>>>>> a61f44bddb4ccb445454ea751c50ad409eec742c
         </configuration> 
         </plugin> 
 
